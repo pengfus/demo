@@ -39,3 +39,4 @@ target/
 *.zip
 *.tar
 *.tar.gz
+.mvn/
